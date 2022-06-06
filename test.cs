@@ -2,4 +2,4 @@ using system;
 
 static void main()
 
-Console.WriteLine("hallo wereld");
+Console.WriteLine("hello world");
